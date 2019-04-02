@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Boredom App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <!-- Strings related to the Alert Dialog -->
+    <string name="notification_listener_service">"Notification Listener Service"</string>
+    <string name="notification_listener_service_explanation">"For the the app. to work you need to enable the Notification Listener Service. Enable it now?"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="service_name">NotificationsService</string>
+    <string name="question">Are you bored?</string>
+    <string name="visualize_data">Visualize Data</string>
+    <string name="iconDesc">Boredom App Mascot</string>
+    <string name="choose">Choose</string>
+    <string name="thankYou">Thank you for the answer!</string>
+</resources>
